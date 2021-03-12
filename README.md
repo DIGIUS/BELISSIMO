@@ -1,5 +1,5 @@
 <div style="float:left;">
-<center><img style="max-width: 30%;width:50%;height:auto;margin: 0 auto;" src="https://ardius.net/assets/img/logo.png"></center>
+<center><img style="width:200px;height:auto;margin: 0 auto;padding:2rem;" src="https://ardius.net/assets/img/logo.png"></center>
 </div>
 <div style="float:left;">
 Доброго времени суток.
