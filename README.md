@@ -1,7 +1,4 @@
 <div style="float:left;">
-<center><img style="width:200px;height:auto;margin: 0 auto;padding:2rem;" src="https://ardius.net/assets/img/logo.png"></center>
-</div>
-<div style="float:left;">
 Доброго времени суток.<br>
 Начну с того что это просто концепт который в идеале можно доработать до нормального состояния а не как я: сделал, работает и хорошо.<br>
 Тестировал на чистом модексе работало сносно.<br>
